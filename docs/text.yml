@@ -1,0 +1,11 @@
+tags:
+  - name: text
+get:
+  description: wat the dog doing
+responses:
+  '200':
+    description: Successful response
+  '400':
+    description: Bad Request
+  '500':
+    description: Internal server error
